@@ -8,8 +8,8 @@ Raman Spectra를 시각화하여 간편하게 분석하고, Raman Peak Table 검
 
 <br />
 
-## 개발 기간 및 팀 구성
-2023.06.26 - 2023.07.25
+## 개발 기간
+> 2023.07.19 - 2023.07.25
 
 <br />
 
@@ -25,7 +25,7 @@ Raman Spectra를 시각화하여 간편하게 분석하고, Raman Peak Table 검
     - BaselineRemoval
 <br />
 
-## 구현 기능
+## 팀 구성 및 구현 기능
 - 권나경
     - UI 제작
     - UI 반응형으로 수정
