@@ -4,7 +4,7 @@
 <br />
 
 ## 프로그램 개요
-Raman Spectra를 시각화하여 간편하게 분석하고, Raman Peak Table 검색이 가능한 프로그램
+Raman Spectra를 시각화하여 간편하게 분석하고, 논문을 토대로 제작된 Raman Peak Table 검색이 가능한 프로그램
 
 <br />
 
@@ -23,6 +23,7 @@ Raman Spectra를 시각화하여 간편하게 분석하고, Raman Peak Table 검
     - Numpy
     - Pandas
     - BaselineRemoval
+    - PyInstaller
 <br />
 
 ## 팀 구성 및 구현 기능
